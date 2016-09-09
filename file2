@@ -1,1 +1,1 @@
-printf("python");
+stringprintf("python");
